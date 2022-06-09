@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5D5W2P)
 # Kissu-Fr-API-Docs
 Documentation for the user interface developer API. The given .ts files are in use for the API and can help to understand some of what is going on in the UI application. This is not a final product and may be changed in any way as I develope my own extentions. I don't even garuntee that the example files here or documentation is accurate to what is running on the site. If there are problems contact me through any means. Preferably use my website for reporting instead of issues.
 
